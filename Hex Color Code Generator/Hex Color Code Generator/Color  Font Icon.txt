@@ -1,0 +1,23 @@
+FontAwesome Link CDN
+
+<script src="https://kit.fontawesome.com/1935d064dd.js" crossorigin="anonymous"></script>
+
+
+
+font open sans
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+
+
+colors 
+
+:root {
+  --white: #fff;
+  --black: #1c2b2d;
+  --blue: #31326f;
+  --light-blue: #005490;
+  --color-primary: #9d0191;
+  --color-sec: #db6400;
+  --grey: #eee;
+  --dark-grey: #222831;
+}
